@@ -244,7 +244,7 @@ written from scratch in C.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-garimaaish1111-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaaish1111)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garimaaish1111)
 [![Gmail](https://img.shields.io/badge/Gmail-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garimaaish1111@gmail.com)
 
 </div>
