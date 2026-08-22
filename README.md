@@ -198,7 +198,7 @@ written from scratch in C.
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=garimaaish1111&hide_border=true&background=0d1117&stroke=22D3EE&ring=22D3EE&fire=FB7185&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&card_width=495&type=svg)](https://git.io/streak-stats)
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garimaaish1111&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
