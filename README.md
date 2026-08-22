@@ -94,7 +94,8 @@ class Garima:
 
 > *Flagship Research Project · UPES · Team: Garima Aishwarya · Brajraj Singh Pathania · Piyush Bharadwaj · Ayushmaan Singh · Guide: Prof. Gouranga Duari*
 
-[![LEXAI](https://img.shields.io/badge/🔗%20View%20Repo-LEXAI-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushmaan0313/LEXAI)
+[![LEXAI](https://img.shields.io/badge/🔗%20View%20Repo-LEXAI-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garimaaish1111/LEXAI)
+[![Upstream](https://img.shields.io/badge/Team%20Repo-ayushmaan0313%2FLEXAI-1e293b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushmaan0313/LEXAI)
 ![Role](https://img.shields.io/badge/My%20Role-Data%20%26%20Preprocessing%20Pipeline-22D3EE?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-Medical%20Imaging-1e293b?style=flat-square)
 ![XAI](https://img.shields.io/badge/XAI-Grad--CAM%20%2B%20Attention-1e293b?style=flat-square)
