@@ -192,13 +192,13 @@ written from scratch in C.
 
 <div align="center">
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garimaaish1111&theme=github_dark"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garimaaish1111&theme=github_dark"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=garimaaish1111&theme=github_dark"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garimaaish1111&theme=2077"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garimaaish1111&theme=2077"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=garimaaish1111&theme=2077"/>
 
 <br/>
 
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garimaaish1111&theme=github_dark&utcOffset=5.5"/>
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garimaaish1111&theme=2077&utcOffset=5.5"/>
 
 </div>
 
@@ -208,7 +208,7 @@ written from scratch in C.
 
 <div align="center">
 
-<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garimaaish1111&theme=github_dark"/>
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garimaaish1111&theme=2077"/>
 
 </div>
 
